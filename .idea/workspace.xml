@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="768ecfc9-8524-4100-bfc4-0eaa852147e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/ClickCounterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/ClickCounterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/config/KafkaConsumerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/config/KafkaProducerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/config/KafkaProducerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/controller/ClickController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/controller/ClickController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/controller/ClickCountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/controller/ClickCountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/java/ma/enset/stream/ClickStreamProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/java/ma/enset/stream/ClickStreamProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/click-counter-app/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/click-counter-app/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/weatherStreamApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/weatherStreamApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_KafkaStream/weatherStreamApp/src/main/java/WeatherStreamApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp_kafka-streams/weatherStreamApp/src/main/java/WeatherStreamApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2zswIdrZWPT96Mb03yEvAEYSRMP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/STATE/Videos/big-data-tps",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="768ecfc9-8524-4100-bfc4-0eaa852147e5" name="Changes" comment="" />
+      <created>1752533009543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752533009543</updated>
+      <workItem from="1752533010613" duration="1805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
